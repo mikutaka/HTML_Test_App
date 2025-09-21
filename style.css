@@ -1,0 +1,29 @@
+@charset "uft-8";
+
+img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.title{
+    font-size: 15px;
+    font-weight: bold;
+    display: inline-flex;
+    padding: 0.2em 0.5em;
+    border-radius: 8px;
+    color:rgb(77, 3, 3);
+    background-color:lightpink;
+}
+
+p{
+    font-size: 20px;
+}
+
+ul{
+    font-size: 18px;
+    width: 350px;
+    padding: 0.5em 1.0em;
+    border-left: double 5px #ff7f50;
+    border-right: double 5px #ff7f50;
+}
